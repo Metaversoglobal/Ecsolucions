@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-color: rgb(43, 89, 187);
+    color: rgb(250, 78, 78);
+}
